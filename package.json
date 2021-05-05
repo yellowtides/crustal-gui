@@ -1,0 +1,25 @@
+{
+  "name": "crustal-gui",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yellowtides/crustal-gui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yellowtides/crustal-gui/issues"
+  },
+  "homepage": "https://github.com/yellowtides/crustal-gui#readme",
+  "description": "",
+  "devDependencies": {
+    "@electron-forge/cli": "*",
+    "electron": "^12.0.6"
+  }
+}
